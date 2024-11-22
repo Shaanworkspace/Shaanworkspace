@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [ GITHUB LINK ](https://github.com/Shaanworkspace)
+- 👨‍💻 All of my projects are available at [ GITHUB LINK ]([https://github.com/Shaanworkspace](https://github.com/Shaanworkspace?tab=repositories))
 
 - 📫 How to reach me **shaanyworkspace@gmail.com**
 
