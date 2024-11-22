@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shaanworkspace](https://github.com/Shaanworkspace)
+- 👨‍💻 All of my projects are available at [ GITHUB LINK ](https://github.com/Shaanworkspace)
 
 - 📫 How to reach me **shaanyworkspace@gmail.com**
 
-- 📄 Know about my experiences [https://shaanresume.tiiny.site](https://shaanresume.tiiny.site)
+- 📄 Know about my experiences [RESUME](https://shaanresume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
