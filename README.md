@@ -1,15 +1,9 @@
-<h1 align="center">Shaan Yadav</h1>
-<p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="200" alt="Coding Animation" />
-</p>
-<h3 align="center">Full-Stack Developer &mdash; Java | Spring Boot | React | India</h3>
+<h1 align="center">👋 Hi, I'm Shaan Yadav</h1>
+<h3 align="center">Full-Stack Developer — Java | Spring Boot | React | India</h3>
 
 <p align="center">
-  <a href="https://shaanyworkspace.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://shaan-portfolioo.netlify.app/">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-27ae60?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-27ae60?style=for-the-badge&logo=sitepoint&logoColor=white" alt="Live Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/shaanyadv/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,108 +11,105 @@
   <a href="mailto:shaanyworkspace@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://shaanresume.tiiny.site">
-    <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
+  <a href="https://leetcode.com/u/shaanydav/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
 
 ---
 
-## 👋 About Me
-
-I'm a passionate Full-Stack Developer and a 2nd-year B.Tech student at **KIET Group of Institutions**. I thrive on building robust backends and beautiful, responsive frontends with **Java, Spring Boot, and React**. Currently, I'm deepening my expertise in the Spring ecosystem and exploring **Flutter** for mobile development.
-
-- 🚀 Driven to solve real-world problems and make an impact through open-source.
-- ✨ Advocate of clean, maintainable code & lifelong learning.
-- 🤝 Open to collaborations, internships, and exciting projects!
+## 🚀 About Me
+I'm a passionate **Full-Stack Developer** and 2nd-year B.Tech student at **KIET Group of Institutions**.  
+I specialize in **Java, Spring Boot, and ReactJS** with a strong foundation in **Data Structures and Algorithms**.  
+Currently working on **enterprise-grade Spring applications** and expanding skills in **cloud & DevOps**.
 
 ---
 
-## 🚩 Portfolio
+## 🔥 Contributions
+### 🌟 Cinevestor (Organization Project)
+📌 Contributing as a **Full Stack Java Developer (Internship)** on the [`cinevestor`](https://github.com/Vithalvision/cinevestor) project.  
 
-🌐 **Explore my work:**  
-**[Live Portfolio](https://shaan-portfolioo.netlify.app/)**
+- Developed and maintained multi-module **Spring Boot applications** with **JSP + React.js** frontend.  
+- Led **cloud migration to Microsoft Azure** with VM, Tomcat, and Front Door (99.9% uptime, +25% performance).  
+- Implemented **CI/CD pipelines** with GitHub Actions, reducing deployment time by **75%**.  
+- Built secure **REST APIs** and optimized database queries for better performance.  
+
+👉 [View my contributions](https://github.com/Vithalvision/cinevestor/commits?author=Shaanworkspace)
 
 ---
 
 ## 🛠️ Tech Stack
-
-- **Backend:** Java, Spring Boot, Spring Security, JDBC, REST APIs
-- **Frontend:** React.js, HTML, CSS, JavaScript, Shadcn
-- **Database:** MySQL, MongoDB
-- **Tools:** Git, Linux, Figma, Postman
-- **Other:** Data Structures, Algorithms, Problem Solving
-
----
-
-## 🌟 Featured Projects
-
-- **[Symp AI](https://github.com/Shaanworkspace/Symp-AI):**  
-  AI-powered symptom checker that guides users to possible diagnoses and next steps.  
-  <sub>*Java, Spring Boot, OpenAI API, MongoDB*</sub>
-
-- **[MediPlan Backend](https://github.com/Shaanworkspace/MediPlan-Backend):**  
-  Secure medical platform backend with user management, appointment scheduling, and health service API integration.  
-  <sub>*Java, Spring Boot, MongoDB, JWT, REST APIs*</sub>
-
-- **[Banking System](https://github.com/Shaanworkspace/Banking_System):**  
-  Secure banking app for account, transaction, and user management.  
-  <sub>*Java, JDBC, MySQL*</sub>
-
-- **[Journal App](https://github.com/Shaanworkspace/Journal-App):**  
-  RESTful API for personal journals with authentication and CRUD features.  
-  <sub>*Spring Boot, MongoDB, JWT*</sub>
-
-> 🔎 Find more in [my repositories](https://github.com/Shaanworkspace?tab=repositories)
+- **Backend:** Java, Spring Boot, Spring Security, Hibernate, Spring MVC  
+- **Frontend:** React.js, HTML5, CSS3, JavaScript, Tailwind CSS, ShadCN  
+- **Databases:** MySQL, MongoDB, PostgreSQL, JPA  
+- **DevOps / Cloud:** Docker, Microsoft Azure, GitHub Actions, Maven, CI/CD  
+- **Languages:** Java, C++, Python, SQL, JavaScript, HTML, CSS  
 
 ---
 
-## 🏆 Competitive Programming & Achievements
+## 🌟 Top Projects
 
-- **LeetCode:** 200+ DSA problems solved  
-  [LeetCode Profile](https://leetcode.com/u/shaanydav/)
-- **CodeChef:** Regular contest participant  
-  [CodeChef Profile](https://www.codechef.com/users/able_treat_18)
-- **HackerRank:** Java & Problem Solving Certified  
-  [HackerRank Profile](https://www.hackerrank.com/shaanyadav101201)
+### 🏥 MediPlan
+🔗 [Live Demo](https://shaan-portfolioo.netlify.app/) | [Frontend Repo](https://github.com/Shaanworkspace/MediPlan-Frontend) | [Backend Repo](https://github.com/Shaanworkspace/MediPlan-Backend)  
+📌 **Tech:** Java 17, Spring Boot, Spring Security, ReactJS, Tailwind CSS, MySQL, Docker  
+- Built a secure medical appointment platform with **JWT authentication** & REST APIs.  
+- Optimized database queries to improve response time by **40%**.  
+- Containerized with **Docker** for consistent deployment.  
 
+---
+
+### 🤖 SYMP AI
+🔗 [Live Demo](https://github.com/Shaanworkspace/SYMP-AI) | [GitHub Repo](https://github.com/Shaanworkspace/SYMP-AI)  
+📌 **Tech:** React.js, Spring Boot, OpenAI API, JWT, MongoDB  
+- **AI-powered symptom checker** integrating **Chat + OpenAI APIs**.  
+- Supports **500+ concurrent users**, reduced chat response latency by **35%**.  
+- Responsive UI using **ReactJS + Tailwind CSS** for smooth user experience.  
+
+---
+
+### 🧑‍💼 Employee Management System
+🔗 [Frontend Repo](https://github.com/Shaanworkspace/Employee-Management-System-Frontend) | [Backend Repo](https://github.com/Shaanworkspace/Employee-Management-System-Backend)  
+📌 **Tech:** ReactJS, Spring Boot, MySQL, Vite, REST APIs  
+- CRUD application with **Role-Based Access Control (RBAC)**.  
+- Integrated secure APIs with full employee data management workflows.  
+- Lightweight and fast builds with **Vite**.  
+
+---
+
+### 📓 Journal App
+🔗 [Backend Repo](https://github.com/Shaanworkspace/Journal-App)  
+📌 **Tech:** Spring Boot, MongoDB, JWT, REST APIs  
+- RESTful API for personal journals with **authentication & CRUD** features.  
+- Secured with **JWT authentication** for user privacy.  
+
+---
+
+### 💰 Banking System
+🔗 [Repo](https://github.com/Shaanworkspace/Banking_System)  
+📌 **Tech:** Java, JDBC, MySQL  
+- Implemented account creation, transaction handling, and user management.  
+- Strong focus on **secure database connectivity** with JDBC.  
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaanworkspace&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaanworkspace&theme=default" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaanworkspace&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shaanworkspace&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaanworkspace&theme=light" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaanworkspace&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shaanyadv/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/shaanydav">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/shaanyadv/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="mailto:shaanyworkspace@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-  </a>
-</p>
+## 📬 Connect With Me
+📍 Delhi, India  
+✉️ Email: **shaanyworkspace@gmail.com**  
+🔗 LinkedIn: [shaanyadv](https://www.linkedin.com/in/shaanyadv/)  
+💻 GitHub: [Shaanworkspace](https://github.com/Shaanworkspace)  
+🌐 Portfolio: [Live Portfolio](https://shaan-portfolioo.netlify.app/)  
 
 ---
 
-📬 **Email:** shaanyworkspace@gmail.com  
-📄 **[Resume](https://shaanresume.tiiny.site)**  
-🌐 **[Portfolio](https://shaan-portfolioo.netlify.app/)**
-
----
-
-<p align="center"><i>Let's connect, collaborate, and build something amazing together!</i></p>
+✨ *I’m open to internships, collaborations, and exciting full-stack development opportunities!*  
