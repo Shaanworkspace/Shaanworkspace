@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Shaan Yadav 👋</h1>
+  <h1 align="center">Hi, I'm Shaan Yadav </h1>
   <h3 align="center">Full-Stack Java Developer | AWS Certified | Microservices & Cloud Enthusiast</h3>
 </div>
 
@@ -26,18 +26,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I am a **Full-Stack Developer** and a Pre-final year B.Tech student specializing in **Computer Science with AI & ML** at **KIET Group of Institutions**. 
 
 With a strong foundation in **Java Ecosystems (Spring Boot, Microservices)** and **Cloud Computing (AWS, Azure)**, I build scalable, enterprise-grade applications. I recently completed an internship focusing on cloud migration and CI/CD optimization.
 
-- 🔭 I’m currently building: **Event-Driven Microservices Architectures**
-- ☁️ Cloud Focus: **AWS & Microsoft Azure**
-- 💼 Open to: **Internships & Full-time SDE roles**
+- I’m currently building: **Event-Driven Microservices Architectures**
+- Cloud Focus: **AWS & Microsoft Azure**
+- Open to: **Internships & Full-time SDE roles**
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 | **Category** | **Technologies** |
 | :--- | :--- |
@@ -49,7 +49,7 @@ With a strong foundation in **Java Ecosystems (Spring Boot, Microservices)** and
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### **Full Stack Java Developer Intern | Cinevestor**
 *Remote | June 2024 – Aug 2024*
@@ -60,7 +60,7 @@ With a strong foundation in **Java Ecosystems (Spring Boot, Microservices)** and
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 🏥 [AyurSutra - Distributed Healthcare Platform](https://github.com/Shaanworkspace)
 *Spring Boot, Microservices, RabbitMQ, Redis, MySQL, Docker*
@@ -82,23 +82,11 @@ With a strong foundation in **Java Ecosystems (Spring Boot, Microservices)** and
 
 ---
 
-## 🏆 Certifications
+## Certifications
 - **AWS Certified Cloud Practitioner** (2025–2028)
 - **AWS Certified AI Practitioner** (2025–2028)
 - **AWS Academy Graduate** – Cloud Foundations
 - **The Ultimate MySQL Crash Course** – Udemy
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaanworkspace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaanworkspace&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaanworkspace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
 
 ---
 
