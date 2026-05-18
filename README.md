@@ -27,7 +27,7 @@
 
 ## About Me
 
-2nd year B.Tech student in **Computer Science with AI & ML** at **KIET Group of Institutions**, Ghaziabad.
+B.Tech student in **Computer Science with AI & ML** at **KIET Group of Institutions**, Ghaziabad.
 
 I build production-grade **Java backend systems** — from microservices architecture to cloud deployments. Currently running a live healthcare platform (AyurSutra) with 5+ microservices on AWS + Oracle Cloud.
 
