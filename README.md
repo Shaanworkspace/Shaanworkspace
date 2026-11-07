@@ -22,7 +22,7 @@
 
 🎓 B.Tech in **CSE (AI & ML)** at **KIET Group of Institutions**, Ghaziabad  
 🚀 I build production-grade **Java backend systems** — microservices, event-driven architecture, and cloud deployments.  
-🌐 Currently running **AyurSutra**, a live healthcare platform with 5+ microservices on AWS + Oracle Cloud.
+🌐 Building **AyurSutra**, a healthcare platform split into Spring Boot microservices.
 
 - 🔨 Building: **AyurSutra** — distributed healthcare platform → [ayursutra.me](https://ayursutra.me)
 - ☁️ Cloud: **AWS (Lambda, S3)** · **Microsoft Azure**
@@ -37,7 +37,7 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `Java` · `JavaScript` · `Python` · `SQL` |
-| **Backend** | `Spring Boot` · `Spring Security` · `Hibernate/JPA` · `RabbitMQ` · `Kafka` · `OAuth2/JWT` · `REST APIs` |
+| **Backend** | `Spring Boot` · `Spring Security` · `Spring Cloud` · `Hibernate/JPA` · `RabbitMQ` · `OAuth2/JWT` · `REST APIs` · `FastAPI` |
 | **Frontend** | `React.js` · `Tailwind CSS` |
 | **Databases** | `MySQL` · `Redis` · `PostgreSQL` · `MongoDB` · `Aerospike` |
 | **DevOps & Cloud** | `AWS` · `Azure` · `Docker` · `GitHub Actions` · `Oracle Cloud` · `NGINX` |
@@ -56,16 +56,33 @@
 ## 🚀 Featured Projects
 
 ### 🏥 AyurSutra — Distributed Healthcare Platform
-`Java 21` · `Spring Boot` · `Kafka` · `RabbitMQ` · `Redis` · `MySQL` · `Docker` · `AWS` · `OAuth2`
+`Java 21` · `Spring Boot` · `Spring Cloud` · `RabbitMQ` · `MySQL` · `Docker` · `AWS Lambda` · `OAuth2`
 🔗 [Live](https://ayursutra.me) · [UserMS](https://github.com/Shaanworkspace/Ayursutra-userMS) · [DoctorMS](https://github.com/Shaanworkspace/Ayursutra-DoctorMS) · [Gateway](https://github.com/Shaanworkspace/Ayursutra-api-gateway)
-- 5+ microservices secured with **OAuth2/JWT + Spring Security**
-- Async comms via **RabbitMQ + Kafka** for high-concurrency bookings
-- Hybrid cloud: **AWS Lambda + Oracle Cloud API Gateway**, Docker + GitHub Actions
-- **Redis** caching + **AWS S3** secure file storage
+- 6 Spring Boot services (user, patient, doctor, therapist, medical records) behind an API gateway with Eureka service discovery
+- **OAuth2/JWT + Spring Security**, role-based access, service-to-service auth
+- Async messaging between services with **RabbitMQ**
+- Packaged with **Docker**, built by **GitHub Actions**, AWS Lambda handlers for serverless deploys
 
 ### 🩺 MediPlan — Medical Appointment System
 `Java 21` · `Spring Boot` · `Spring Security` · `React.js` · `JWT` · `Docker`
-- JWT auth, REST APIs, 95% test coverage, 40% faster queries, fully containerized
+- JWT auth, role-based dashboards, REST APIs, Docker
+- 🔗 [Backend](https://github.com/Shaanworkspace/MediPlan-Backend) · [Frontend](https://github.com/Shaanworkspace/MediPlan-Frontend)
+
+### 🚗 VigilEye — Driver Drowsiness Detection
+`React` · `Node.js` · `Socket.IO` · `FastAPI` · `MediaPipe` · `MongoDB`
+🔗 [Repo](https://github.com/Shaanworkspace/vigiley)
+- Webcam-only detection (EAR, MAR, PERCLOS) with per-driver calibration and graded alerts escalated to a fleet admin in real time
+- JWT-authenticated sockets, per-session ML state, jest + pytest suites and gitleaks in CI
+
+### 🎟️ BookMyShow Backend — Seat Locking
+`Java` · `Spring Boot` · `Redis` · `JPA`
+🔗 [Repo](https://github.com/Shaanworkspace/bookmyshow-backend)
+- Redis `SET NX` seat holds with TTL and a scheduled cleanup job for expired bookings
+
+### 💬 Customer Feedback Insight System (team project)
+`FastAPI` · `BERT` · `React` · `Docker` · `AWS`
+🔗 [Repo](https://github.com/Shaanworkspace/customer-feedback-insight-system)
+- Aspect-level sentiment on product reviews, ranked customer concerns with evidence comments
 
 ---
 
@@ -78,12 +95,6 @@
   <img src="https://img.shields.io/badge/490%2B_Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   <img src="https://img.shields.io/badge/300%2B_Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </div>
-
-<p align="center">
-  <a href="https://youtu.be/VIDEO_ID_1"><img src="https://img.youtube.com/vi/VIDEO_ID_1/mqdefault.jpg" width="31%"/></a>
-  <a href="https://youtu.be/VIDEO_ID_2"><img src="https://img.youtube.com/vi/VIDEO_ID_2/mqdefault.jpg" width="31%"/></a>
-  <a href="https://youtu.be/VIDEO_ID_3"><img src="https://img.youtube.com/vi/VIDEO_ID_3/mqdefault.jpg" width="31%"/></a>
-</p>
 
 <p align="center">
   <i>Backend Engineering · LeetCode Solutions · System Design · Full-Stack Projects</i><br>
