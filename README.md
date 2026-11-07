@@ -1,137 +1,68 @@
-<div align="center">
-  <h1>Hi, I'm Shaan Yadav 👋</h1>
-  <h3>Java Backend Developer · Spring Boot · Microservices · AWS Certified</h3>
+# Shaan Yadav — Java Backend Developer (Spring Boot · Microservices · System Design)
 
-  <p>
-    <a href="https://shaan-portfolioo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-27ae60?style=for-the-badge&logo=sitepoint&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/shaanyadv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/shaanydav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-    <a href="https://www.youtube.com/@Shaan_Labs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <a href="mailto:shaanyworkspace@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
+I'm **Shaan Yadav**, a backend engineer who builds **Java / Spring Boot microservices**, real-time systems and applied ML products, and teaches **DSA and system design** on the YouTube channel **[Shaan Labs](https://www.youtube.com/@Shaan_Labs)**. B.Tech CSE (AI & ML) at KIET Group of Institutions, Ghaziabad. Open to **SDE / Backend Developer** roles and internships.
 
-  <img src="https://img.shields.io/github/followers/Shaanworkspace?style=flat&logo=github&label=Followers&color=0e75b6"/>
-  <img src="https://img.shields.io/github/stars/Shaanworkspace?style=flat&logo=github&label=Stars&color=ffd700"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-27ae60?style=for-the-badge&logo=sitepoint&logoColor=white)](https://shaan-portfolioo.netlify.app/)
+[![LinkedIn: Shaan Yadav](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaanyadv/)
+[![YouTube: Shaan Labs](https://img.shields.io/badge/YouTube-Shaan_Labs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Shaan_Labs)
+[![LeetCode: shaanydav](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shaanydav/)
+[![Email Shaan Yadav](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaanyworkspace@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## What I work on
 
-🎓 B.Tech in **CSE (AI & ML)** at **KIET Group of Institutions**, Ghaziabad  
-🚀 I build production-grade **Java backend systems** — microservices, event-driven architecture, and cloud deployments.  
-🌐 Building **AyurSutra**, a healthcare platform split into Spring Boot microservices.
+- **Backend systems in Java 21 + Spring Boot**: REST APIs, Spring Security with OAuth2/JWT, Spring Cloud gateway and Eureka, RabbitMQ messaging, JPA/Hibernate on MySQL and PostgreSQL.
+- **Concurrency and correctness**: seat locking with Redis, idempotent APIs, background cleanup jobs.
+- **Real-time and ML products**: Socket.IO alerting, FastAPI model services, MediaPipe and BERT pipelines.
+- **Shipping**: Docker, GitHub Actions CI, AWS (Lambda, EC2, ECR) and Azure deployments.
 
-- 🔨 Building: **AyurSutra** — distributed healthcare platform → [ayursutra.me](https://ayursutra.me)
-- ☁️ Cloud: **AWS (Lambda, S3)** · **Microsoft Azure**
-- 💡 Interests: System Design · Event-Driven Architecture · Backend Engineering
-- 📹 Teaching DSA & System Design on **YouTube @Shaan_Labs**
-- 🎯 Open to: **SDE / Backend Developer roles & internships**
+## Featured projects
 
----
+| Project | What it does | Stack | Code |
+| --- | --- | --- | --- |
+| **AyurSutra** — healthcare microservices | Patient, doctor, therapist, medical-record and user services behind an API gateway with service discovery and role-based OAuth2/JWT auth | Java 21, Spring Boot, Spring Cloud, RabbitMQ, MySQL, Docker, AWS Lambda | [gateway](https://github.com/Shaanworkspace/Ayursutra-api-gateway) · [user](https://github.com/Shaanworkspace/Ayursutra-userMS) · [patient](https://github.com/Shaanworkspace/Ayursutra-PatientMS) · [doctor](https://github.com/Shaanworkspace/Ayursutra-DoctorMS) · [frontend](https://github.com/Shaanworkspace/Ayursutra-frontend) |
+| **VigilEye** — driver drowsiness detection | Webcam-only fatigue detection (eye/mouth aspect ratio, PERCLOS) with per-driver calibration and real-time escalation to a fleet admin | React, Node.js, Socket.IO, FastAPI, MediaPipe, MongoDB | [vigiley](https://github.com/Shaanworkspace/vigiley) |
+| **BookMyShow backend** — seat booking | Redis `SET NX` seat holds with TTL and a scheduled job that releases expired bookings | Java, Spring Boot, Redis, JPA | [bookmyshow-backend](https://github.com/Shaanworkspace/bookmyshow-backend) |
+| **Customer Feedback Insight System** (team) | Aspect-level sentiment on product reviews; ranks customer concerns with the comments that prove them | FastAPI, BERT, React, Docker, AWS | [customer-feedback-insight-system](https://github.com/Shaanworkspace/customer-feedback-insight-system) |
+| **MediPlan** — appointment system | Role-based dashboards for patients, doctors and admins with JWT auth | Spring Boot, Spring Security, React, Docker | [backend](https://github.com/Shaanworkspace/MediPlan-Backend) · [frontend](https://github.com/Shaanworkspace/MediPlan-Frontend) |
 
-## 🛠️ Technical Arsenal
+## Tech stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Java` · `JavaScript` · `Python` · `SQL` |
-| **Backend** | `Spring Boot` · `Spring Security` · `Spring Cloud` · `Hibernate/JPA` · `RabbitMQ` · `OAuth2/JWT` · `REST APIs` · `FastAPI` |
-| **Frontend** | `React.js` · `Tailwind CSS` |
-| **Databases** | `MySQL` · `Redis` · `PostgreSQL` · `MongoDB` · `Aerospike` |
-| **DevOps & Cloud** | `AWS` · `Azure` · `Docker` · `GitHub Actions` · `Oracle Cloud` · `NGINX` |
+| Area | Tools |
+| --- | --- |
+| Languages | Java, Python, JavaScript, SQL |
+| Backend | Spring Boot, Spring Security, Spring Cloud, Hibernate/JPA, RabbitMQ, OAuth2/JWT, FastAPI, Node.js |
+| Data | MySQL, PostgreSQL, Redis, MongoDB |
+| Frontend | React, Tailwind CSS |
+| Cloud & DevOps | AWS, Azure, Oracle Cloud, Docker, GitHub Actions, NGINX |
 
----
+## Experience
 
-## 💼 Experience
+**Full Stack Java Developer Intern — Vithal Visions Pvt. Ltd** · Remote · Jun 2025 – Aug 2025
+- Migrated infrastructure to Azure (VM + Tomcat + Front Door), reaching 99.9% uptime and a 25% performance improvement
+- Built multi-module Spring Boot applications with JSP and React
+- Set up CI/CD with GitHub Actions and Docker, cutting deploy time by 75%
 
-**Full Stack Java Developer Intern** — Vithal Visions Pvt. Ltd · *Remote · Jun 2025 – Aug 2025*
-- Migrated infra to **Azure** (VM + Tomcat + Front Door) → 99.9% uptime, 25% perf boost
-- Built multi-module **Spring Boot** apps (JSP/React), +30% modular scalability
-- CI/CD with **GitHub Actions + Docker**, cutting deploy time by 75%
+## Shaan Labs — DSA & System Design on YouTube
 
----
+I explain LeetCode problems, backend engineering and system design in Hinglish, with solutions in Java, Python, C++ and C. Daily solutions live in [YOUTUBE-DRIVE](https://github.com/Shaanworkspace/YOUTUBE-DRIVE).
 
-## 🚀 Featured Projects
+[![Subscribe to Shaan Labs on YouTube](https://img.shields.io/badge/Subscribe-@Shaan__Labs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Shaan_Labs?sub_confirmation=1)
 
-### 🏥 AyurSutra — Distributed Healthcare Platform
-`Java 21` · `Spring Boot` · `Spring Cloud` · `RabbitMQ` · `MySQL` · `Docker` · `AWS Lambda` · `OAuth2`
-🔗 [Live](https://ayursutra.me) · [UserMS](https://github.com/Shaanworkspace/Ayursutra-userMS) · [DoctorMS](https://github.com/Shaanworkspace/Ayursutra-DoctorMS) · [Gateway](https://github.com/Shaanworkspace/Ayursutra-api-gateway)
-- 6 Spring Boot services (user, patient, doctor, therapist, medical records) behind an API gateway with Eureka service discovery
-- **OAuth2/JWT + Spring Security**, role-based access, service-to-service auth
-- Async messaging between services with **RabbitMQ**
-- Packaged with **Docker**, built by **GitHub Actions**, AWS Lambda handlers for serverless deploys
+## Competitive programming
 
-### 🩺 MediPlan — Medical Appointment System
-`Java 21` · `Spring Boot` · `Spring Security` · `React.js` · `JWT` · `Docker`
-- JWT auth, role-based dashboards, REST APIs, Docker
-- 🔗 [Backend](https://github.com/Shaanworkspace/MediPlan-Backend) · [Frontend](https://github.com/Shaanworkspace/MediPlan-Frontend)
+- 500+ LeetCode problems (350+ medium/hard), contest rating 1400+ — [leetcode.com/u/shaanydav](https://leetcode.com/u/shaanydav/)
+- GeekStreak60 (GeeksforGeeks × NPCI) and LeetCode 50-day badge
 
-### 🚗 VigilEye — Driver Drowsiness Detection
-`React` · `Node.js` · `Socket.IO` · `FastAPI` · `MediaPipe` · `MongoDB`
-🔗 [Repo](https://github.com/Shaanworkspace/vigiley)
-- Webcam-only detection (EAR, MAR, PERCLOS) with per-driver calibration and graded alerts escalated to a fleet admin in real time
-- JWT-authenticated sockets, per-session ML state, jest + pytest suites and gitleaks in CI
+## Certifications
 
-### 🎟️ BookMyShow Backend — Seat Locking
-`Java` · `Spring Boot` · `Redis` · `JPA`
-🔗 [Repo](https://github.com/Shaanworkspace/bookmyshow-backend)
-- Redis `SET NX` seat holds with TTL and a scheduled cleanup job for expired bookings
+- AWS Certified Cloud Practitioner (2025–2028)
+- AWS Certified AI Practitioner (2025–2028)
+- AWS Academy Graduate — Cloud Foundations
 
-### 💬 Customer Feedback Insight System (team project)
-`FastAPI` · `BERT` · `React` · `Docker` · `AWS`
-🔗 [Repo](https://github.com/Shaanworkspace/customer-feedback-insight-system)
-- Aspect-level sentiment on product reviews, ranked customer concerns with evidence comments
+## Contact
 
----
+Hiring for a backend or Java developer role, or want a collaboration on Shaan Labs? Email **[shaanyworkspace@gmail.com](mailto:shaanyworkspace@gmail.com)** or message me on [LinkedIn](https://www.linkedin.com/in/shaanyadv/).
 
-## 📺 Content Creator — Shaan Labs
-
-<div align="center">
-  <a href="https://www.youtube.com/@Shaan_Labs?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/Subscribe_to-@Shaan_Labs-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/490%2B_Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/300%2B_Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</div>
-
-<p align="center">
-  <i>Backend Engineering · LeetCode Solutions · System Design · Full-Stack Projects</i><br>
-  🔗 <a href="https://www.youtube.com/@Shaan_Labs">youtube.com/@Shaan_Labs</a>
-</p>
-
----
-
-## 🏆 Competitive Programming
-- 🧠 **500+ LeetCode problems** (350+ Medium/Hard) · Rating **1400+**
-- 🥇 **GeekStreak60** (GeeksforGeeks × NPCI) · **LeetCode 50-Day** badge
-- 🔗 [leetcode.com/u/shaanydav](https://leetcode.com/u/shaanydav/)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Shaanworkspace?style=for-the-badge&logo=github&label=Followers&color=0e75b6"/>
-  <img src="https://img.shields.io/github/stars/Shaanworkspace?style=for-the-badge&logo=github&label=Total%20Stars&color=ffd700"/>
-  <img src="https://img.shields.io/github/repo-count/Shaanworkspace?style=for-the-badge&logo=github&label=Public%20Repos&color=2da44e"/>
-  <img src="https://img.shields.io/github/last-commit/Shaanworkspace/Shaanworkspace?style=for-the-badge&logo=github&label=Last%20Commit"/>
-</p>
-
----
-
-## 📜 Certifications
-- **AWS Certified Cloud Practitioner** (2025–2028)
-- **AWS Certified AI Practitioner** (2025–2028)
-- **AWS Academy Graduate** – Cloud Foundations
-
----
-
-<p align="center">
-  <i>Let's connect and build something great.</i><br><br>
-  <a href="https://www.linkedin.com/in/shaanyadv/">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@Shaan_Labs">YouTube</a> ·
-  <a href="mailto:shaanyworkspace@gmail.com">Email</a> ·
-  <a href="https://shaan-portfolioo.netlify.app/">Portfolio</a>
-</p>
+<sub>Keywords: Shaan Yadav, Shaanworkspace, Shaan Labs, Java backend developer, Spring Boot developer, microservices, system design, DSA, KIET Ghaziabad.</sub>
